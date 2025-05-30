@@ -22,7 +22,10 @@ A lightweight command-line text editor built in C, inspired by the simplicity an
 Clone and compile the editor:
 
 ```bash
-git clone https://github.com/Kanishk-Kulshrestha/cli-text-editor.git
-cd cli-text-editor
+git clone https://github.com/Kanishk-Kulshrestha/Quanta.git
+cd Quanta
+mkdir build
+cd build
 cmake ..
 make
+```
