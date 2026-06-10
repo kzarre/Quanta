@@ -30,5 +30,5 @@ cmake ..
 make
 ```
 
-##Screenshot
+## Screenshot
 ![](https://github.com/kzarre/Quanta/blob/master/Screenshot.png)
